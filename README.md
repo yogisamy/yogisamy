@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/yogisamy"><img src="https://api.daily.dev/devcards/ecb722ccff9142b79974dc8af7278ab3.png?r=5k3" width="400" alt="Yogamani Balusamy's Dev Card"/></a>
 <!--
 **yogisamy/yogisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
